@@ -1,0 +1,19 @@
+--- Logging started at 2026-01-11 12:35:53.903100 ---
+[alt_l][tab][tab][backspace]4[enter]task4.py[enter][ctrl_l][backspace][caps_lock]read[caps_lock].me[backspace][backspace][backspace]me[alt_l][tab][tab][tab][tab][tab][tab][tab][tab][tab][tab][alt_l][tab]\\[backspace][backspace][backspace][backspace][caps_lock]me.[caps_lock]md[alt_l][tab][ctrl_l][ctrl_l][alt_l][tab][ctrl_l][alt_l][tab][alt_l][tab][alt_l][tab][tab][enter][enter][enter][enter][enter][enter][enter][alt_l][tab][tab][tab][tab][tab][tab][tab][tab][tab][alt_l][tab][cmd][cmd][cmd][shift]Spython[space]task4.py[enter]
+--- Logging started at 2026-01-11 12:43:51.844879 ---
+[backspace][backspace]ppytthhoon[space][space]ttaasskk44..ppy[enter][enter]
+--- Logging started at 2026-01-11 12:44:12.366028 ---
+uuui[backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace][backspace]pppyyyhhhtttooonnn[space][space][space]tttaaasssk444...pppyyy[enter][enter]pppyyyttthhoonnn[space][space][space]tttaassskkk...[backspace][backspace][backspace][backspace][backspace]kkk444...pppyyy[enter][enter][enter]
+--- Logging started at 2026-01-11 12:45:15.678149 ---
+ddddddd[tab][tab][tab][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l]vvvv[tab][tab][tab][tab][esc][esc][esc]
+
+--- Logging stopped ---
+
+
+--- Logging stopped ---
+
+
+--- Logging stopped ---
+
+
+--- Logging stopped ---
